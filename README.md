@@ -83,11 +83,3 @@
 | 🎯 Guessing Game | Number guessing game |
 
 ---
-
-## 🎯 Current Goals
-
-```text
-DSA              █████████░ 90%
-Software Dev     ████████░░ 80%
-AI / ML          ██████░░░░ 60%
-Open Source      █████░░░░░ 50%
