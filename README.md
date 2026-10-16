@@ -27,20 +27,44 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- GitHub Statistics -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=comet1135&show_icons=true&theme=tokiyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comet1135&layout=compact&theme=tokiyonght&hide_border=true" height="170">
+  <i>A snapshot of my coding journey and open-source activity.</i>
+</p>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=comet1135&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=334155&icon_color=0ea5e9&rank_icon=github&include_all_commits=true"
+    alt="GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=comet1135&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=334155"
+    alt="Most Used Languages"
+  />
+</p>
+
+<br>
+
+<!-- Contribution Streak -->
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <i>Consistency is the key to growth.</i>
+</p>
+
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=comet1135&hide_border=true&background=ffffff&ring=2563eb&fire=f59e0b&currStreakLabel=2563eb&sideLabels=334155&currStreakNum=2563eb&sideNums=0ea5e9&dates=64748b"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=comet1135&theme=tokyonight&hide_border=true">
-</p>
 
 ---
 ## 🌍 3D Contribution Calendar
