@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anirudha</h1>
+
 
 <h3 align="center">
   CSE Undergraduate | Software Development | AI/ML | DSA
