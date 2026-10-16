@@ -1,4 +1,4 @@
-name: Generate 3D Contribution Calendar
+name: 🌍 Generate 3D Contribution Calendar
 
 on:
   schedule:
@@ -15,11 +15,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Generate 3D contribution calendar
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           USERNAME: comet1135
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated images
         run: |
