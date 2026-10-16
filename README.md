@@ -43,6 +43,15 @@
 </p>
 
 ---
+## 🌍 3D Contribution Calendar
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-south-season-animate.svg"
+    alt="3D GitHub Contribution Calendar"
+    width="100%"
+  />
+</p>
 
 ## 🐍 Contribution Snake
 
